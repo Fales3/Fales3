@@ -15,5 +15,5 @@ Herramientas:
 - ⚡ Fun fact: I think my programming teacher didn't know how to program
 -->
 
-Soy Fabio Rosales, estudiante de la UNI (Lima- Perú) estudiando la carrera de Ing. Electrónica
+Soy Fabio Rosales, egresado de la UNI (Lima- Perú) estudié la carrera de Ing. Electrónica
 
